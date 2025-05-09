@@ -9,11 +9,11 @@ public class Main {
         float juice = 3.5f;
         double water = 10.0;
 
-        System.out.println("Значение переменной eggs с типом byte равно " + lemon);
+        System.out.println("Значение переменной lemon с типом byte равно " + lemon);
         System.out.println("Значение переменной potatoes с типом short равно " + potatoes);
         System.out.println("Значение переменной apples с типом int равно " + apples);
         System.out.println("Значение переменной tomatoes с типом long равно " + tomatoes);
-        System.out.println("Значение переменной milk с типом float равно " + juice);
+        System.out.println("Значение переменной juice с типом float равно " + juice);
         System.out.println("Значение переменной water с типом double равно " + water);
 
         System.out.println("Задача 2");
